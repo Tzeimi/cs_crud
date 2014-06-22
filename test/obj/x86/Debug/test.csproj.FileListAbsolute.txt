@@ -1,0 +1,35 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_AltaAlumnos.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_AltaCali.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_AltaMaestros.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_AltaMaterias.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_BajaMaestros.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_ConsultaAlumnos.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_ConsultaMaestros.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.frm_Menu.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\bin\Debug\test.sdf
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\bin\Debug\test.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\bin\Debug\test.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.pdb
+C:\Users\Gemini\Desktop\test\test\bin\Debug\test.exe.config
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.exe
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.pdb
+C:\Users\Gemini\Desktop\test\test\bin\Debug\test.sdf
+C:\Users\Gemini\Desktop\test\test\bin\Debug\test.exe
+C:\Users\Gemini\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_AltaAlumnos.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_AltaCali.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_AltaMaestros.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_AltaMaterias.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_BajaMaestros.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_ConsultaAlumnos.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_ConsultaMaestros.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_Menu.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_BajaAlumnos.resources
+C:\Users\Gemini\Desktop\test\test\obj\x86\Debug\test.frm_ModificarMaestros.resources
